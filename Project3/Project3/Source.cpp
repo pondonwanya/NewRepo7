@@ -91,7 +91,7 @@ int main()
 		printf("Please enter the radius length : ");
 		scanf("%f", &num81);
 		area8 = pow(num81, 2) * 22 / 7;
-		printf("\narea = 3.14 * (radius length * radius length) \n\n");
+		printf("\narea = 22/7 * (radius length * radius length) \n\n");
 		printf("The area of your circle is %.3f", area8);
 	}
 }
